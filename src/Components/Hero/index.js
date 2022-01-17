@@ -2,7 +2,6 @@ import React, {useState} from 'react'
 import Navbar from '../Navbar'
 import Sidebar from '../Sidebar'
 import LoginButton from '../LoginButton/index.js'
-import LoginPage from '../../Pages/LoginPage/index.js'
 import {
   HeroContainer, HeroContent,HeroItems,HeroH1,HeroP,HeroBtn
 } from './HeroElements'
